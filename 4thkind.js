@@ -1,4 +1,4 @@
-const mqDark = window.matchMedia("(prefers-color-scheme: dark)")
+ const mqDark = window.matchMedia("(prefers-color-scheme: dark)")
 
 const darkModeToggle = document.querySelector("a.dark-mode-toggle")
 const darkModeToggleText = darkModeToggle.querySelector("span")
